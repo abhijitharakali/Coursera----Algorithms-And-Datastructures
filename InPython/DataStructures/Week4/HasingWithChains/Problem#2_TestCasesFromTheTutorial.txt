@@ -1,0 +1,34 @@
+add world 
+add HellO 
+check 4 
+find World 
+find world 
+del world 
+check 4 
+del HellO 
+add luck 
+add GooD 
+check 2 
+del good 
+
+add test 
+add test 
+find test 
+del test 
+find test 
+find Test 
+add Test 
+find Test
+
+check 0 
+find help 
+add help 
+add del 
+add add 
+find add 
+find del 
+del del 
+find del 
+check 0 
+check 1 
+check 2
